@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#
-# W100 challenge for Pixels Camp CTF 2016
-#
 # Copyright (c) 2016, Bright Pixel
 #
 
